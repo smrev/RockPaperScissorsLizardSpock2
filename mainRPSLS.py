@@ -1,4 +1,4 @@
-from gui_Revord_RPSLS import *
+from guiRPSLS import *
 
 
 def main():
